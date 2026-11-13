@@ -2,6 +2,10 @@
   <img src="assets/github-banner.png" alt="Yahli | IT Infrastructure, Networking, Cloud and Cybersecurity" width="100%">
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=19&pause=1200&color=C5A6A0&center=true&vCenter=true&width=700&height=55&lines=Exploring+IT+Infrastructure;Learning+Networking+%26+Systems;Discovering+Cloud+Technologies;Building+Cybersecurity+Foundations" alt="Animated typing text">
+</p>
+
 <h1 align="center">Hi, I'm Yahli 👋</h1>
 
 <h3 align="center">
