@@ -33,17 +33,48 @@ I'm currently building my technical foundations in IT infrastructure, networking
 
 ---
 
-## Current Focus
+<h2 align="center">✧ Current Focus ✧</h2>
 
-| Area | What I'm exploring |
-|---|---|
-| IT Support | Troubleshooting and technical support fundamentals |
-| Networking | IPv4, IPv6, subnetting and network design |
-| Systems | Operating systems and Linux fundamentals |
-| Cloud | Cloud infrastructure and service models |
-| Cybersecurity | Network security and security fundamentals |
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Georgia&size=18&pause=1800&color=718C78&center=true&vCenter=true&width=650&height=35&lines=Exploring+the+systems+behind+technology;Connecting+networks%2C+ideas+and+possibilities" alt="Animated introduction">
+</p>
 
----
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3>🌐 Networking</h3>
+      <img src="https://img.shields.io/badge/IPv4-718C78?style=flat-square">
+      <img src="https://img.shields.io/badge/IPv6-C5A6A0?style=flat-square">
+      <br><sub>Subnetting · Network Design</sub>
+      <br>✧ ⋆ ✧
+    </td>
+    <td align="center" width="50%">
+      <h3>⌘ IT Support</h3>
+      <img src="https://img.shields.io/badge/Troubleshooting-718C78?style=flat-square">
+      <img src="https://img.shields.io/badge/Technical_Support-C5A6A0?style=flat-square">
+      <br><sub>Problem Solving · Systems</sub>
+      <br>✧ ⋆ ✧
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>☁️ Cloud</h3>
+      <img src="https://img.shields.io/badge/Infrastructure-718C78?style=flat-square">
+      <img src="https://img.shields.io/badge/Cloud_Services-C5A6A0?style=flat-square">
+      <br><sub>Cloud Fundamentals</sub>
+      <br>✧ ⋆ ✧
+    </td>
+    <td align="center" width="50%">
+      <h3>🛡️ Cybersecurity</h3>
+      <img src="https://img.shields.io/badge/Network_Security-718C78?style=flat-square">
+      <img src="https://img.shields.io/badge/Security_Basics-C5A6A0?style=flat-square">
+      <br><sub>Protection · Security Fundamentals</sub>
+      <br>✧ ⋆ ✧
+    </td>
+  </tr>
+</table>
+
+
 
 ## Certifications & Education
 
