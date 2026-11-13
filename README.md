@@ -1,4 +1,3 @@
- # yahlile1998-ai <!-- BANNER: add your image at assets/github-banner.png -->
 <p align="center">
   <img src="assets/github-banner.png" alt="Yahli | IT Infrastructure, Networking, Cloud and Cybersecurity" width="100%">
 </p>
@@ -60,11 +59,6 @@ My first web development project, created during my Technical Skills class with 
 
 A creative website inspired by my own baking project and its natural, artisanal identity.
 
-<!-- Add a screenshot at assets/lequil-yotan-preview.png -->
-<!-- Uncomment when the image is uploaded:
-<img src="assets/lequil-yotan-preview.png" width="700" alt="Repostería Lequil Yotan website preview">
--->
-
 ---
 
 ## Beyond Technology
@@ -78,4 +72,3 @@ I'm especially curious about how digital infrastructure can evolve while becomin
 <p align="center">
   <i>Curiosity builds knowledge. Practice turns it into experience.</i>
 </p>
-```
